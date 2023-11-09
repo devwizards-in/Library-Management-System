@@ -1,0 +1,55 @@
+Library Management System
+
+This is a prototype of a library management system.
+It allows users to login as either a user or an admin.
+Users can borrow books or journals, and admins can add books or journals to the system.
+
+
+Sure, here is a README file for your library management system prototype:
+
+Library Management System Prototype
+This is a prototype of a library management system. It allows users to login as either a user or an admin. Users can borrow books or journals, and admins can add books or journals to the system.
+
+Features
+i)   Login as user or admin
+ii)  Borrow books or journals
+iii) Add books or journals
+iv)  Search for books or journals by title, author, or subject
+v)   View borrower history for a particular book or journal
+
+Flow of the Project
+1) On first prompt, you will be asked to select user or admin.
+2) If you select admin, you will be given the option to add a book, journal, or logout.
+3) If you select user, you will be given the option to login or register.
+4) If you are a first-time user, you will need to register before you can login.
+5) After logging in, you will be asked if you want to borrow a book or journal.
+6) If you select book or journal, you will be given the option to see all books or journals, search for a book or journal, view your borrower history, borrow a book or journal, return a borrowed book or journal, or logout.
+
+
+*******************************************************************
+
+Database file is in the form of Json provided into database folder.
+
+********************************************************************
+
+
+Technologies Used
+1) Python
+2) MongoDB
+
+Requirements
+This project requires Python,PyCharm,MongoDB.
+
+
+Installation
+
+pip install pymongo         #Python driver for MongoDB
+
+Author
+kiran padole
+
+I hope this is helpful!
+
+
+
+
